@@ -10,6 +10,7 @@ The fastest bot to bypass anticheat on https://play.typeracer.com/
   - Mac: https://installvirtual.com/install-openjdk-11-mac-using-brew/
 
 * Chromedriver version matching your version of Google Chrome
+  - Check your Chrome version: https://www.whatismybrowser.com/detect/what-version-of-chrome-do-i-have
   - Download: https://chromedriver.chromium.org/downloads
 
 ### Setup
