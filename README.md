@@ -2,6 +2,8 @@
 
 The fastest bot to bypass anticheat on https://play.typeracer.com/
 
+[Example of App Running](https://github.com/xWink/Easy-TypeRacer/blob/master/demo/ETR_Example.png)
+
 ### Prerequisites
 
 * Java 11
