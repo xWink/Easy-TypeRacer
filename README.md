@@ -23,7 +23,7 @@ The fastest bot to bypass anticheat on https://play.typeracer.com/
 3. A Google Chrome window should open to TypeRacer's website, alongside the application window.
 
 ### Play
-1. Navigate to any race page ("Enter a typing race", "Practice", "Race your friends").
+1. Navigate to any race page ("Enter a typing race", "Practice", or "Race your friends").
 2. Press the play button during the countdown.
 3. You can pause and resume using the pause and play buttons (you can pause before the race has started to make the bot wait).
 4. If you press stop, the bot will completely stop playing in the current race. You can go to another race to play again.
