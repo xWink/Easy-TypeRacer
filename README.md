@@ -13,7 +13,7 @@ The fastest bot to bypass anticheat on https://play.typeracer.com/
 
 * Chromedriver downloaded
   1. Check your Chrome version: https://www.whatismybrowser.com/detect/what-version-of-chrome-do-i-have
-  2. Download for your version: https://chromedriver.chromium.org/downloads
+  2. Download driver for your version: https://chromedriver.chromium.org/downloads
   3. Unzip the downloaded package and keep track of the location of chromedriver.exe
 
 ### Setup
