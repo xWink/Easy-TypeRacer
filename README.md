@@ -6,14 +6,15 @@ The fastest bot to bypass anticheat on https://play.typeracer.com/
 
 ### Prerequisites
 
-* Java 11
+* Java 11 installed and on system path
   - Windows: https://java.tutorials24x7.com/blog/how-to-install-java-11-on-windows
   - Linux: https://www.javahelps.com/2017/09/install-oracle-jdk-9-on-linux.html
   - Mac: https://installvirtual.com/install-openjdk-11-mac-using-brew/
 
-* Chromedriver version matching your version of Google Chrome
-  - Check your Chrome version: https://www.whatismybrowser.com/detect/what-version-of-chrome-do-i-have
-  - Download: https://chromedriver.chromium.org/downloads
+* Chromedriver downloaded
+  1. Check your Chrome version: https://www.whatismybrowser.com/detect/what-version-of-chrome-do-i-have
+  2. Download for your version: https://chromedriver.chromium.org/downloads
+  3. Unzip the downloaded package and keep track of the location of chromedriver.exe
 
 ### Setup
 
@@ -23,6 +24,6 @@ The fastest bot to bypass anticheat on https://play.typeracer.com/
 
 ### Play
 1. Navigate to any race page ("Enter a typing race", "Practice", "Race your friends").
-2. Press the play button when the countdown starts.
-3. You can pause and resume using the pause and play buttons during a race.
+2. Press the play button during the countdown.
+3. You can pause and resume using the pause and play buttons (you can pause before the race has started to make the bot wait).
 4. If you press stop, the bot will completely stop playing in the current race. You can go to another race to play again.
