@@ -20,7 +20,9 @@ The fastest bot to bypass anticheat on https://play.typeracer.com/
 
 1. Download EasyTypeRacer.jar from the [latest release](https://github.com/xWink/Easy-TypeRacer/releases/tag/v1.0).
 2. On terminal, execute the jar with `java -jar <path/to/EasyTypeRacer.jar> <path/to/chromedriver.exe>`
-3. A Google Chrome window should open to TypeRacer's website, alongside the application window.
+  - Example: `java -jar C:/Downloads/EasyTypeRacer.jar C:/Downloads/chromedriver_win32/chromedriver.exe`
+
+A Google Chrome window should open to TypeRacer's website, alongside the application window.
 
 ### Play
 1. Navigate to any race page ("Enter a typing race", "Practice", or "Race your friends").
