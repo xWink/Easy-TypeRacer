@@ -29,3 +29,4 @@ A Google Chrome window should open to TypeRacer's website, alongside the applica
 2. Press the play button during the countdown.
 3. Use the pause and play buttons to hault and resume typing during a race (you can also pause before a race has started).
 4. Press the stop button to drop out during a race. You can go to another race to play again.
+5. Close the application window to end the program (this closes the Chrome window as well).
