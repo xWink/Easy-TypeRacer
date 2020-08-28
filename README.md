@@ -19,8 +19,9 @@ The fastest bot to bypass anticheat on https://play.typeracer.com/
 ### Setup
 
 1. Download EasyTypeRacer.jar from the [latest release](https://github.com/xWink/Easy-TypeRacer/releases/tag/v1.0).
-2. On terminal, execute the jar with `java -jar <path/to/EasyTypeRacer.jar> <path/to/chromedriver.exe>`
-    - Example: `java -jar C:/Downloads/EasyTypeRacer.jar C:/Downloads/chromedriver_win32/chromedriver.exe`
+2. On terminal, execute the jar with `java -jar <path/to/EasyTypeRacer.jar> <path/to/chromedriver.exe> [path/to/chrome/profile/]`
+    - The Chrome Profile is optional and will allow you to use your personal Google Chrome settings (including adblocker and other plugins)
+    - Example: `java -jar C:/Downloads/EasyTypeRacer.jar C:/Downloads/chromedriver_win32/chromedriver.exe "C:/Users/Wink/AppData/Local/Google/Chrome/User Data"`
 
 A Google Chrome window should open to TypeRacer's website, alongside the application window.
 

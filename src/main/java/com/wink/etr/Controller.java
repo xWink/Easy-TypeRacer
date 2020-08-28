@@ -1,7 +1,6 @@
 package com.wink.etr;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Controller {
 
@@ -11,7 +10,7 @@ public class Controller {
 
     public Controller(double wpm, Gui gui) {
         this.gui = gui;
-        driver = new ChromeDriver();
+        driver = WebDriverFactory.create();
         driver.get("https://play.typeracer.com/");
         racer = new Racer(driver, wpm);
     }

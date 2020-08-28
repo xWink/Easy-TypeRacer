@@ -77,6 +77,7 @@ public class Racer {
             if (callback != null) {
                 callback.run();
             }
+            running = false;
             return;
         }
 
