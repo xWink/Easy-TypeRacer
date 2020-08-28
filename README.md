@@ -28,5 +28,6 @@ A Google Chrome window should open to TypeRacer's website, alongside the applica
 ### Play
 1. Navigate to any race page ("Enter a typing race", "Practice", or "Race your friends").
 2. Press the play button during the countdown.
-3. You can pause and resume using the pause and play buttons (you can pause before the race has started to make the bot wait).
-4. If you press stop, the bot will completely stop playing in the current race. You can go to another race to play again.
+3. Use the pause and play buttons to hault and resume typing during a race (you can also pause before a race has started).
+4. Press the stop button to drop out during a race. You can go to another race to play again.
+5. Close the application window to end the program (this closes the Chrome window as well).
